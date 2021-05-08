@@ -1,9 +1,21 @@
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/panela_verde/)
+
 # Receitas
 
 ## Pão de quê [[abrir](/receitas/pao_de_que/README.md)]
 
 Nossa primeira receita. Delícia! :)
 Veja [aqui](/receitas/pao_de_que/README.md)!
+
+## Contatos
+
+* Instagram
+
+  [@panela_verde](https://www.instagram.com/panela_verde/)
+
+* E-mail
+
+  pavereceitas@gmail.com
 
 ## Licença
 
