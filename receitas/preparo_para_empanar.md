@@ -9,6 +9,8 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ## Creme para empanar
 
+![Creme para empanar](./creme_para_empanar.jpg)
+
 ### Ingredientes
 
 * 1 xícara de castanha de caju
@@ -28,6 +30,8 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 250ml de creme.
 
 ## Farinha para empanar
+
+![Farinha para empanar](./farinha_para_empanar.jpg)
 
 ### Ingredientes
 
