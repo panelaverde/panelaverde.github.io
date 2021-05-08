@@ -1,5 +1,5 @@
 ---
-layout: mydefault
+layout: receitas
 ---
 # Pão de quê
 
