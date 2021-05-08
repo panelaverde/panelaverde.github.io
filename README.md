@@ -1,9 +1,8 @@
 # Receitas
 
-## Pão de quê
+## Pão de quê [[abrir](/receitas/pao_de_que/README.md)]
 
 Nossa primeira receita. Delícia! :)
-
 Veja [aqui](/receitas/pao_de_que/README.md)!
 
 ## Licença
