@@ -5,16 +5,16 @@ layout: mydefault
 
 ## Beringela empanada [[abrir](./receitas/beringela_empanada.md)]
 
-Beringela empanada crocante!
-
-## Empanado de quê [[abrir](./receitas/empanado_de_que.md)]
-
-Preparado para empanar o que você quiser. Só não vale empanar bixinhos!;)
+Beringela empanada crocante! Veja também nosso [preparo_para_empanar](./receitas/preparo_para_empanar.md).
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
 Nossa primeira receita. Delícia! :)
 Veja [aqui](/receitas/pao_de_que.md)!
+
+## Preparo para empanar [[abrir](./receitas/preparo_para_empanar.md)]
+
+Preparado para empanar o que você quiser. Só não vale empanar bixinhos!;)
 
 ## Contatos
 
