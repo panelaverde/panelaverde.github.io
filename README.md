@@ -1,6 +1,6 @@
 ## Receitas
 
-* Pão de quê
+* [Pão de quê](pao_de_que.md)
 
 ## Licença
 
