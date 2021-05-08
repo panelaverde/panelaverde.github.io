@@ -35,7 +35,7 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ### Ingredientes
 
-* 1 xícara de farinha de mandioco
+* 1 xícara de farinha de mandioca
 * 1 colher de chá de sal (a gosto)
 * 1 pitada de pimenta do reino moída (a gosto)
 
