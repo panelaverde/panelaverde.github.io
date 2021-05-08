@@ -8,14 +8,14 @@ Berigela empanada crocante!
 ## Ingredientes
 
 1. 1 beringela (média ou grande)
-2. 1 xícara de [creme para empanar](./empanado_de_que.md)
-3. 1 xícara de [farinha para empanar](./empanado_de_que.md)
+2. 1 xícara de [creme para empanar](./preparo_para_empanar.md)
+3. 1 xícara de [farinha para empanar](./preparo_para_empanar.md)
 4. 2 colheres de sopa de óleo vegetal
 
 ## Modo de preparo
 
-1. Coloque o [creme para empanar](./empanado_de_que.md) em um prato fundo. Veja a receita [aqui](./empanado_de_que.md)!
-2. Coloque a [farinha para empanar](./empanado_de_que.md) em um outro prato fundo. Veja a receita [aqui](./empanado_de_que.md)!
+1. Coloque o [creme para empanar](./preparo_para_empanar.md) em uma tigela rasa. Veja a receita [aqui](./preparo_para_empanar.md)!
+2. Coloque a [farinha para empanar](./preparo_para_empanar.md) em uma tigela rasa. Veja a receita [aqui](./preparo_para_empanar.md)!
 3. Corte a beringela em rodelas de dois dedos de espessura.
 4. Empanar cada rodela individualmente:
   1. Passe a rodela de beringela na farinha para empanar.
