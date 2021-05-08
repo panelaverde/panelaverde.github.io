@@ -5,10 +5,10 @@ layout: mydefault
 
 # Receitas
 
-## Pão de quê [[abrir](/receitas/pao_de_que/README.md)]
+## Pão de quê [[abrir](/receitas/pao_de_que.md)]
 
 Nossa primeira receita. Delícia! :)
-Veja [aqui](/receitas/pao_de_que/README.md)!
+Veja [aqui](/receitas/pao_de_que.md)!
 
 ## Contatos
 
