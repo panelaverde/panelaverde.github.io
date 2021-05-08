@@ -3,16 +3,18 @@ layout: receitas
 ---
 # Empanado de quê
 
+Preparo para empanar.
+
 ## Ingredientes
 
-* [Creme para empanar](## Creme para empanar)
-* [Farinha para empanar](## Farinha para empanar)
+* Creme para empanar (receita aqui abaixo)
+* Farinha para empanar (receita aqui abaixo)
 * O que quiser empanar. Só não vale empanar bixinhos, eihn! ;)
 
 ## Modo de preparo
 
-1. Prepare o creme para empanar e reserve em um prato fundo. Veja a receita [aqui abaixo](## Creme para empanar).
-2. Prepare a farinha para empanar e reserve em um outro prato fundo. Veja a receita [aqui abaixo](## Creme para empanar).
+1. Prepare o creme para empanar e reserve em um prato fundo. Veja a receita aqui abaixo.
+2. Prepare a farinha para empanar e reserve em um outro prato fundo. Veja a receita aqui abaixo.
 3. Escolha o que quiser empanar.
 3.1. Passe na farinha.
 3.2. Passe no creme.
