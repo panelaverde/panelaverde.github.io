@@ -23,10 +23,10 @@ layout: receitas
 5. Faça bolinhas pequenas da massa (máximo do tamanho de uma bola de pingue-pongue).
 6. Coloque para assar no forno a 180°C em uma forma antiaderente ou bezuntada. Disponha as bolinhas um pouco separadas uma das outras (elas vão quase dobrar de tamanho).
 
-### Observação
+## Observação
 
 Leva em torno de 40 minutos assando. Vai estar pronto quando as bolinhas crescerem e tiverem uma rachadura.
 
-### Rendimento
+## Rendimento
 
 Serve quatro pessoas.
