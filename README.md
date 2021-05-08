@@ -15,7 +15,7 @@ Veja [aqui](/receitas/pao_de_que/README.md)!
 
 * E-mail
 
-  pavereceitas@gmail.com
+  [pavereceitas@gmail.com](pavereceitas@gmail.com)
 
 ## Licença
 
