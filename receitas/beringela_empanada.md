@@ -1,3 +1,6 @@
+---
+layout: receitas
+---
 # Beringela empanada
 
 ## Ingredientes
