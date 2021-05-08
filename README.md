@@ -1,6 +1,6 @@
-## Receitas
+# Receitas
 
-### [Pão de quê](/receitas/pao_de_que/README.md)
+## Pão de quê
 
 Nossa primeira receita. Delícia! :)
 
