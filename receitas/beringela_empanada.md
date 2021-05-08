@@ -18,9 +18,9 @@ Berigela empanada crocante!
 2. Coloque a [farinha para empanar](./empanado_de_que.md) em um outro prato fundo. Veja a receita [aqui](./empanado_de_que.md)!
 3. Corte a beringela em rodelas de dois dedos de espessura.
 4. Empanar cada rodela individualmente:
-4.1. Passe a rodela de beringela na farinha para empanar.
-4.2. Passe a rodela de beringela no creme para empanar.
-4.3. Repita 4.1. e 4.2. para fazer um empanado duplo. Fica mais gostoso!:D
+  4.1. Passe a rodela de beringela na farinha para empanar.
+  4.2. Passe a rodela de beringela no creme para empanar.
+  4.3. Repita 4.1. e 4.2. para fazer um empanado duplo. Fica mais gostoso!:D
 5. Bezunte uma forma de forno (forma baixa).
 6. Coloque as beringelas na forma e passe um fio de óleo vegetal em cima de cada uma.
 7. Leve ao forno (pré-aqueça) à 200ºC por cerca de 20 minutos.
