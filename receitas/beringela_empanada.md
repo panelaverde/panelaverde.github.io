@@ -3,6 +3,8 @@ layout: receitas
 ---
 # Beringela empanada
 
+![Beringela empanada](./beringela_empanada.jpg)
+
 Berigela empanada crocante!
 
 ## Ingredientes
