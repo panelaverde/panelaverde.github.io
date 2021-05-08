@@ -1,3 +1,6 @@
+---
+layout: receitas
+---
 # Empanado de quê
 
 ## Ingredientes
