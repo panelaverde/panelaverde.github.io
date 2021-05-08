@@ -1,6 +1,6 @@
 ## Receitas
 
-* [Pão de quê](pao_de_que.md)
+* [Pão de quê](/receitas/pao_de_que/pao_de_que.md)
 * teste
 
 ## Licença
