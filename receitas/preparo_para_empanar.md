@@ -12,14 +12,14 @@ O preparo consiste no creme e na farinha para empanar. Siga as receitas abaixo e
 ### Ingredientes
 
 * 1 xícara de castanha de caju
-* 1 limão
+* 1/2 limão
 * 1 colher de chá de páprica defumada
-* 1 colher de chá de sal
+* 1 colher de chá de sal (a gosto)
 * 1 xícara de água
 
 ### Modo de preparo
 
-1. Adicione todos os ingredientes no liquidificador (menos a água).
+1. Adicione a castanha de caju, a páprica defumada, o sal e algumas gotas de limão no liquidificador.
 2. Adicione água até cobrir os ingredientes com uns dois dedos acima. 
 3. Bata até ficar um creme homogêneo.
 
