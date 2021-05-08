@@ -16,9 +16,9 @@ Preparo para empanar.
 1. Prepare o creme para empanar e reserve em um prato fundo. Veja a receita aqui abaixo.
 2. Prepare a farinha para empanar e reserve em um outro prato fundo. Veja a receita aqui abaixo.
 3. Escolha o que quiser empanar.
-3.1. Passe na farinha.
-3.2. Passe no creme.
-3.3. Fica mais gostoso empanar duas vezes! :D
+    3.1. Passe na farinha.
+    3.2. Passe no creme.
+    3.3. Fica mais gostoso empanar duas vezes! :D
 
 ## Creme para empanar
 
