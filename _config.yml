@@ -1,5 +1,6 @@
+title: panela_verde
+description: Site de receitas livres.
+logo: logo_panela_verde.png
+show_downloads: false
+google_analytics: 
 theme: jekyll-theme-minimal
-
-title: [panela_verde]
-description: [Site de receitas livres.]
-logo: [logo_panela_verde.png]
