@@ -28,7 +28,7 @@ Bergela empanada crocante!
 7. Leve ao forno (preaqueça) à 200ºC por cerca de 20 minutos.
 8. Vire as berinjelas empanadas e volte a assar por mais 20 minutos.
 
-## Observação
+## Observações
 
 * Caso 40 minutos de forno não tenha sido suficiente para o empanado ficar crocante, aumente a temperatura do forno e asse por mais alguns minutos. Cuidado! Pode queimar rápido.
 

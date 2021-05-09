@@ -7,6 +7,10 @@ layout: mydefault
 
 Berinjela empanada crocante! Veja também nosso [preparo_para_empanar](./receitas/preparo_para_empanar.md).
 
+## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
+
+Guiozas recheados com legumes.
+
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
 Nossa primeira receita. Delícia! :)
