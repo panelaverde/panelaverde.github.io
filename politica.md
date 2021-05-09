@@ -1,5 +1,5 @@
 ---
-layout: politica
+layout: mydefault
 ---
 # Política de uso de dados
 
