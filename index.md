@@ -5,20 +5,20 @@ layout: mydefault
 
 ## Berinjela empanada [[abrir](./receitas/berinjela_empanada.md)] 
 
-<span class="badge badge-secondary">Nova</span> Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md). 
+<span class="badge badge-primary">Nova</span> Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md). 
 
 ## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
 
-<span class="badge badge-secondary">Nova</span>  Guiozas recheados com legumes.
+<span class="badge badge-primary">Nova</span>  Guiozas recheados com legumes.
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
-Nossa primeira receita. Delícia! :)
+<span class="badge badge-warning">Maravilho!</span> Nossa primeira receita. :)
 Veja [aqui](/receitas/pao_de_que.md)!
 
 ## Preparo para empanar [[abrir](./receitas/preparo_para_empanar.md)]
 
-<span class="badge badge-secondary">Nova</span>  Preparado para empanar o que você quiser. Só não vale empanar bichinhos!;)
+<span class="badge badge-primary">Nova</span>  Preparado para empanar o que você quiser. Só não vale empanar bichinhos!;)
 
 ## Contatos
 
