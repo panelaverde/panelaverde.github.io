@@ -24,7 +24,7 @@ Veja [aqui](/receitas/pao_de_que.md)!
 
 * Instagram
 
-  [@panela_verde](https://www.instagram.com/panela_verde/)
+  <a href="https://www.instagram.com/panela_verde/"><i class="fab fa-instagram"></i> panela_verde</a>
 
 * E-mail
 
