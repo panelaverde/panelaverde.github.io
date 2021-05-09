@@ -21,12 +21,14 @@ layout: receitas
 3. Adicione os outros ingredientes (menos a água).
 4. Amasse com a mão e vá adicionando a água do cozimento aos poucos, até ficar uma massa macia e uniforme.
 5. Faça bolinhas pequenas da massa (máximo do tamanho de uma bola de pingue-pongue).
-6. Coloque para assar no forno a 180°C em uma forma antiaderente ou bezuntada. Disponha as bolinhas um pouco separadas uma das outras (elas vão quase dobrar de tamanho).
+6. Coloque para assar no forno a 180°C em uma forma antiaderente ou besuntada por cerca de 40min.. Disponha as bolinhas um pouco separadas uma das outras (elas vão quase dobrar de tamanho).
 
-## Observação
+## Observações
 
-Leva em torno de 40 minutos assando. Vai estar pronto quando as bolinhas crescerem e tiverem uma rachadura.
+* Com cuidado, vale a pena virar os pães após 20 minutos de forno. Vai estar pronto quando as bolinhas crescerem e tiverem uma rachadura.
+
+* É mais rápido cozinhar o inhame em pedaços, leva em torno de 10min. assim até ficar macio.
 
 ## Rendimento
 
-Serve quatro pessoas.
+Rende 30 pães de quê. Serve quatro pessoas.
