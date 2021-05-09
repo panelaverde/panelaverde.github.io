@@ -89,7 +89,7 @@ Fique a vontade para improvisar no recheio! <i class="fas fa-smile-wink"></i>
 
 ## Rendimento
 
-Rende em torno de 20 guiozas. Esforçou-se? Então, rende mais de 25! <i class="fas fa-laugh-wink"></i>
+Rende em torno de 20 guiozas. Esforçou-se? Então, rende mais de 25! <i class="fas fa-laugh"></i>
 
 
 
