@@ -46,3 +46,7 @@ Adicione todos os ingredientes em prato fundo. Misture e reserve.
 ### Rendimento
 
 1 xícara de farinha para empanar.
+
+## Observação
+
+Você pode adicionar, a gosto, outros temperos ou ervas no creme ou na farinha para empanar.
