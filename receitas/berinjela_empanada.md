@@ -30,7 +30,7 @@ Bergela empanada crocante!
 
 ## Observações
 
-* Caso 40 minutos de forno não tenha sido suficiente para o empanado ficar crocante, aumente a temperatura do forno e asse por mais alguns minutos. Cuidado! Pode queimar rápido.
+* Caso 40 minutos de forno não tenham sido suficientes para o empanado ficar crocante, aumente a temperatura do forno e asse por mais alguns minutos. Cuidado! Pode queimar rápido.
 
 * Acompanhe com salada verde, vinagrete, arroz, molho de tomate, etc. Só não vale acompanhar com você sabe o quê! ;)
 
