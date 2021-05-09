@@ -1,5 +1,5 @@
 ---
-layout: politca
+layout: politica
 ---
 # Política de uso de dados
 
