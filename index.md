@@ -3,7 +3,7 @@ layout: mydefault
 ---
 # Receitas
 
-## Berinjela empanada [[abrir](./receitas/berinjela_empanada.md)]
+## Berinjela empanada [[abrir](./receitas/berinjela_empanada.md)] <span class="badge badge-secondary">Nova</span>
 
 Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md).
 
