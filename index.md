@@ -18,7 +18,7 @@ Veja [aqui](/receitas/pao_de_que.md)!
 
 ## Preparo para empanar [[abrir](./receitas/preparo_para_empanar.md)]
 
-<span class="badge badge-warning">Nova</span>  Preparado para empanar o que você quiser. Só não vale empanar bichinhos!;)
+<span class="badge badge-warning">Nova</span>  Preparado para empanar o que você quiser. Só não vale empanar bichinhos! <i class="fas fa-smile-wink"></i>
 
 ## Contatos
 
