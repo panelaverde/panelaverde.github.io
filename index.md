@@ -9,7 +9,7 @@ layout: mydefault
 
 ## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
 
-Guiozas recheados com legumes.
+<span class="badge badge-secondary">Nova</span>  Guiozas recheados com legumes.
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
@@ -18,7 +18,7 @@ Veja [aqui](/receitas/pao_de_que.md)!
 
 ## Preparo para empanar [[abrir](./receitas/preparo_para_empanar.md)]
 
-Preparado para empanar o que você quiser. Só não vale empanar bichinhos!;)
+<span class="badge badge-secondary">Nova</span>  Preparado para empanar o que você quiser. Só não vale empanar bichinhos!;)
 
 ## Contatos
 
