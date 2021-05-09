@@ -29,6 +29,8 @@ layout: receitas
 
 * É mais rápido cozinhar o inhame em pedaços, leva em torno de 10min. assim até ficar macio.
 
+* O inhame estáem falta? Não tem desculpa, pode substituir por batata doce ou inglesa. A quantidade é a mesma! <i class="fas fa-laugh-wink"></i>
+
 ## Rendimento
 
 Rende 30 pães de quê. Serve quatro pessoas.

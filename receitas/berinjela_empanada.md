@@ -22,7 +22,7 @@ Bergela empanada crocante!
 4. Empanar cada rodela individualmente:
   1. Passe a rodela de berinjela na farinha para empanar.
   2. Passe a rodela de berinjela no creme para empanar.
-  3. Repita 4.1. e 4.2. para fazer um empanado duplo. Fica mais gostoso!:D
+  3. Repita 4.1. e 4.2. para fazer um empanado duplo. Fica mais gostoso! <i class="fas fa-laugh"></i>
 5. Besunte uma forma de forno (forma baixa).
 6. Coloque as berinjelas na forma e passe um fio de óleo vegetal em cima de cada uma.
 7. Leve ao forno (preaqueça) à 200ºC por cerca de 20 minutos.

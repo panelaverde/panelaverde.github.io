@@ -63,7 +63,7 @@ Guiozas recheados com legumes.
 
 1. Abra a massa com rolo até ficar bem fina.
 2. Corte a massa em discos de 10cm cada. Pode usar a boca de uma xícara grande ou um pires pequeno, etc..
-3. Abra cada disco de massa mais uma vez, de forma a deixá-los bem finos. Esforce-se! :D
+3. Abra cada disco de massa mais uma vez, de forma a deixá-los bem finos. Esforce-se! <i class="fas fa-laugh"></i>
 4. Recheie cada disco de massa e feche em formato de pastel com dobras. Veja um vídeo no YouTube! :D
 5. Em uma frigideira antiaderente, preaqueça 1 colher de sopa do óleo vegetal em fogo baixo.
 2. Acrescente em torno de quatro a seis guiozas e frite sem mexer até dourar um dos lados.
@@ -81,7 +81,7 @@ Uma delícia!
 
 ## Rendimento
 
-Rende em torno de 20 guiozas. Esforçou-se? Então, rende mais de 25! :D
+Rende em torno de 20 guiozas. Esforçou-se? Então, rende mais de 25! <i class="fas fa-laugh-wink"></i>
 
 
 
