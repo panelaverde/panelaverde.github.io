@@ -3,6 +3,8 @@ layout: receitas
 ---
 # Guioza de legumes
 
+![Guioza de legumes](guioza_de_legumes.jpg)
+
 Guiozas recheados com legumes.
 
 ## Ingredientes
