@@ -22,11 +22,9 @@
 
 	 <script>
            $(document).ready(function () {
-               $("#colabAlert").hide();
                $("#generalAlert").hide();
-               if (document.referrer.lastIndexOf("://phkonzen.github.io/notas/") == -1) {
+               if (document.referrer.lastIndexOf("://panelaverde.github.io") == -1) {
 		   $("#generalAlert").fadeIn(100);
-		   $("#colabAlert").delay(3000).fadeIn(100);
 	       }
            });    
          </script>
