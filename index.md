@@ -5,7 +5,7 @@ layout: mydefault
 
 ## Berinjela empanada [[abrir](./receitas/berinjela_empanada.md)]
 
-Berinjela empanada crocante! Veja também nosso [preparo_para_empanar](./receitas/preparo_para_empanar.md).
+Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md).
 
 ## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
 
