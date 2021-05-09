@@ -13,7 +13,7 @@ layout: mydefault
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
-<span class="badge badge-success">Maravilhoso!</span> Nossa primeira receita. :)
+<span class="badge badge-success">Maravilhosa!</span> Nossa primeira receita. :)
 Veja [aqui](/receitas/pao_de_que.md)!
 
 ## Preparo para empanar [[abrir](./receitas/preparo_para_empanar.md)]
