@@ -1,9 +1,9 @@
 ---
 layout: receitas
 ---
-# Berinjela empanada
+# Berinjela empanada crocante
 
-![Berinjela empanada](./berinjela_empanada.jpg)
+![Imagem: Berinjela empanada crocante](./berinjela_empanada_crocante.jpg)
 
 Bergela empanada crocante!
 
@@ -36,7 +36,7 @@ Bergela empanada crocante!
 
 * Caso 40 minutos de forno não tenham sido suficientes para o empanado ficar crocante, aumente a temperatura do forno e asse por mais alguns minutos. Cuidado! Pode queimar rápido.
 
-* Acompanhe com salada verde, vinagrete, arroz, molho de tomate, etc. Só não vale acompanhar com você sabe o quê! <i class="fas fa-laugh-wink"></i>
+* Acompanhe com salada verde, vinagrete, arroz, molho de tomate, etc. Só não vale acompanhar com você sabe o quê! <i class="fas fa-seedling"></i> <i class="fas fa-laugh-wink"></i>
 
 ## Rendimento
 
