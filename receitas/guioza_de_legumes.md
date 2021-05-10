@@ -80,7 +80,7 @@ Guiozas recheados com legumes.
 
 ### Molho (opcional)
 
-1. Em uma tigela, exprima o suco do limão.
+1. Em uma tigela, esprema o suco do limão.
 2. Acrescente os demais ingredientes e misture.
 
 ## Observação
