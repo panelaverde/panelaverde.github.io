@@ -21,9 +21,10 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ### Modo de preparo
 
-1. Adicione a castanha de caju, a páprica defumada, o sal e algumas gotas de limão no liquidificador.
+1. Adicione a castanha de caju, a páprica defumada, o sal e algumas gotas de limão (a gosto) no liquidificador.
 2. Adicione água até cobrir os ingredientes com uns dois dedos acima. 
 3. Bata até ficar um creme homogêneo.
+4. Reserve em uma tigela rasa.
 
 ### Rendimento
 
@@ -41,7 +42,7 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ### Modo de preparo
  
-Adicione todos os ingredientes em prato fundo. Misture e reserve.
+Adicione todos os ingredientes em uma tigela rasa. Misture e reserve.
 
 ### Rendimento
 
@@ -49,4 +50,4 @@ Adicione todos os ingredientes em prato fundo. Misture e reserve.
 
 ## Observação
 
-Você pode adicionar, a gosto, outros temperos ou ervas no creme ou na farinha para empanar.
+Você pode adicionar, a gosto, outros temperos ou ervas no creme ou na farinha para empanar. Vale inclusive estes esquemas super nutritivos, tipo chia! <i class="fas fa-laugh"></i>
