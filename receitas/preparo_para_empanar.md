@@ -50,4 +50,4 @@ Adicione todos os ingredientes em uma tigela rasa. Misture e reserve.
 
 ## Observação
 
-Você pode adicionar, a gosto, outros temperos ou ervas no creme ou na farinha para empanar. Vale inclusive estes esquemas super nutritivos, tipo chia! <i class="fas fa-laugh"></i>
+Você pode adicionar, a gosto, outros temperos ou ervas no creme ou na farinha para empanar. Vale inclusive esses esquemas super nutritivos, tipo chia! <i class="fas fa-laugh"></i>
