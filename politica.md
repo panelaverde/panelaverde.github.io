@@ -11,6 +11,6 @@ Este é um _cookie_ usado para coletar dados referente aos acesso ao _site_ para
 
 ## Contato
 
-Para em contato com a administração deste _site_:
+Para entrar contato com a administração deste _site_, escreva para
 
 [pavereceitas@gmail.com](mailto:pavereceitas@gmail.com)
