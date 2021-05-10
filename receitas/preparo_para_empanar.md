@@ -3,7 +3,7 @@ layout: receitas
 ---
 # Preparo para empanar
 
-Preparo para empanar o que você quiser. Só não vale empanar bichinhos, eihn! <i class="fas fa-smile-wink"></i> 
+Preparo para empanar o que você quiser. Só não vale empanar bichinhos, eihn! <i class="fas fa-seedling"></i> <i class="fas fa-smile-wink"></i> 
 
 O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas abaixo e reserve-as em tigelas separadas. Escolha o que quiser empanar, passe na farinha e após no creme. Fica mais gostoso empanar duas vezes! Leve o empanado ao forno em fogo médio até ficar crocante.
 
