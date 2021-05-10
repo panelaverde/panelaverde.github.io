@@ -22,9 +22,9 @@ Massa à berinjela defumada e cremosa.
 2. Vá virando de tempo em tempo de forma a tostar uniformemente a casca das berinjelas. 
 3. Toste a casca até ficar completamente torrada e as berinjelas ficarem bem macias. Que cheiro gostoso! <i class="fas fa-laugh"></i>
 4. Retire do fogo, remova a casca das berinjelas e amasse com um garfo. Reserve.
-5. Em uma frigideira alta, refogue a cebola, o alho, a pimenta picados e o alecrim. Lembre-se de começar com a cebola! <i class="fas fa-wink"></i>
+5. Em uma frigideira alta, refogue a cebola, o alho, a pimenta picados e o alecrim. Lembre-se de começar com a cebola! <i class="fas fa-smile-wink"></i>
 6. Adicione a berinjela, o tahine e o sal, refogue em fogo baixo por 5 minutos.
-6. Prepare a massa conforme as instruções do fabricante. Al dente é mais gostosa! <i class="fas fa-wink"></i>
+6. Prepare a massa conforme as instruções do fabricante. _Al dente_ é mais gostosa! <i class="fas fa-smile-wink"></i>
 7. Adicione a massa na frigideira junto com uma concha da água do cozimento. Misture e refoge em fogo alto por um instante.
 8. Sirva.
 
@@ -34,11 +34,10 @@ Massa à berinjela defumada e cremosa.
 
 * Pode ser servido com massa espaguete, penne, fusilli, pappardelle, farfalle, etc.
 
+* Ao servir, considere colocar um fio de azeite, pimenta do reino ou do rosa, castanha do pará ralada.
+
 * Dica! Durante o preparo da berinjela, proteja o fogão com papel alumínio e limpe antes de esfriar. <i class="fas fa-laugh-wink"></i>
 
 ## Rendimento
 
 Serve duas pessoas.
-
-
-
