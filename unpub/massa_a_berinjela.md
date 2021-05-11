@@ -3,6 +3,8 @@ layout: receitas
 ---
 # Massa à berinjela
 
+![Massa à berinjela](./massa_a_berinjela.jpg)
+
 Massa à berinjela defumada e cremosa.
 
 ## Ingredientes
