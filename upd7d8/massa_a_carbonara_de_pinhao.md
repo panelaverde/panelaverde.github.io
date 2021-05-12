@@ -40,7 +40,7 @@ Massa, molho tipo inglês e pinhão. Muito mais delícia que carbonara! <i class
 
 ### Finalização
 
-1. Cozinhe a massa conforme instruções da fabricante. <i>Al dente</i> mais gostosa! <i class="fas fa-wink"></i>
+1. Cozinhe a massa conforme instruções da fabricante. <i>Al dente</i> é mais gostosa! <i class="fas fa-wink"></i>
 2. Na frigideira com os pinhões, adicione o molho e a massa.
 3. Mexa e refogue por uns instantes em fogo alto.
 4. Sirva. <i class="fas fa-laugh-wink"></i>
