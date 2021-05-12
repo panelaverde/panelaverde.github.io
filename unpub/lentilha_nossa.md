@@ -1,9 +1,9 @@
 ---
 layout: receitas
 ---
-# Lentinha nossa
+# Lentilha nossa
 
-![Imagem: Lentinha nossa](./lentinha_nossa.jpg)
+![Imagem: Lentilha nossa](./lentilha_nossa.jpg)
 
 Nossa lentilha delícia de toda semana.
 
@@ -17,12 +17,12 @@ Nossa lentilha delícia de toda semana.
 
 ## Modo de preparo
 
-* Coloque a lentinha de molho por cerca de 12 horas. Troque a água pelo menos duas vezes em momentos diferentes.
+* Coloque a lentilha de molho por cerca de 12 horas. Troque a água pelo menos duas vezes em momentos diferentes.
 
 1. Em uma panela média, comece refogando a cebola picada em fogo alto.
 2. No que a cebola começar a dourar, acrescente o alho picado e a pimenta picada. Refogue em fogo baixo até dourar.
 3. Adicione a lentilha.
-4. Adicione água até cobrir a lentinha um dedo acima.
+4. Adicione água até cobrir a lentilha um dedo acima.
 5. Adicione a páprica defumada e mexa.
 6. Cozinhe em fogo baixo por cerca de 20 minutos, mexendo com frequência. Se necessário adicione água aos poucos, mantendo o nível de água. 
 7. Para engrossar o caldo, amasse alguns grãos de lentilha e volte a mexer. <i class="fas fa-wink"></i>
@@ -30,7 +30,7 @@ Nossa lentilha delícia de toda semana.
 
 ## Observações
 
-* Tempo de preparo: 30min de preparo (+ 12h lentinha de molho).
+* Tempo de preparo: 30min de preparo (+ 12h lentilha de molho).
 
 * Ao refogar, fique a vontade para adicionar temperinhos maravilhosos como sálvia, erva baleeira, etc.
 
