@@ -3,7 +3,7 @@ layout: receitas
 ---
 # Massa à berinjela cremosa
 
-![Imagem Massa à berinjela](./massa_a_berinjela.jpg)
+![Imagem Massa à berinjela cremosa](./massa_a_berinjela_cremosa.jpg)
 
 Massa à berinjela defumada e cremosa.
 
