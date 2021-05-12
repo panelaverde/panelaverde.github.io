@@ -30,4 +30,4 @@ Semente delícia de nossa araucaria!  <i class="fas fa-seedling"></i>
 
 ## Rendimento
 
-Rende ..gr de pinhão descascado.
+Rende 300gr de pinhão descascado.
