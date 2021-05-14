@@ -22,7 +22,7 @@ Guiozas recheados com legumes.
 * 1 colher de chá de gengibre picado
 * 1 dente de alho picado
 * 3/4 xícara de alho poró picado
-* 1 pimenta dedo-de-moça
+* 1 pimenta dedo-de-moça <i class="fas fa-pepper-hot"></i>
 * 1 xícara de batata ralada
 * 2 xícaras de repolho roxo picado
 * 1 colher de chá de sal (a gosto)

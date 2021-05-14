@@ -16,7 +16,7 @@ Massa, molho tipo inglês e pinhão. Muito mais delícia que carbonara! <i class
 * 1 colher de sopa de manteiga vegetal
 * 1 colher de sopa de farinha de trigo
 * 1 colher de sopa de farinha de grão de bico
-* 1 pimenta dedo de moça
+* 1 pimenta dedo de moça <i class="fas fa-pepper-hot"></i>
 * 1 colher de chá rasa de noz moscada ralada
 * 1 colher de chá cheia de páprica defumada
 * 1 colher de chá de molho inglês

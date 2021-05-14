@@ -9,10 +9,10 @@ Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinh�
 
 ## Ingredientes
 
-* 350gr de pinhão cozido descascado
+* 350gr de [pinhão cozido](pinhao_cozido.md) descascado
 * 1 cebola pequena
 * 3 dentes de alho
-* 1 pimenta dedo de moça
+* 1 pimenta dedo de moça <i class="fas fa-pepper-hot"></i>
 * 3 tomates italianos
 * 1 colher de chá cheia de páprica defumada
 * 1 colher de sopa de molho inglês
@@ -37,12 +37,12 @@ Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinh�
 
 * Tempo de preparo: 1 hora.
 
-* No molho, fique a vontade para adicionar temperinhos maravilhosos como sálvia, erva baleeira, etc.
+* No molho, fique a vontade para adicionar temperinhos maravilhosos como sálvia, [erva baleeira](https://pt.wikipedia.org/wiki/Cordia_verbenacea), etc.
 
-* Tem ora-pro-nóbis? Adicione picada junto com o arroz.  <i class="fas fa-seedling"></i> 
+* Tem [ora-pro-nóbis](https://pt.wikipedia.org/wiki/Pereskia_aculeata)? Adicione picada junto com o arroz.  <i class="fas fa-seedling"></i> 
 
 * Sirva com temperinho verde ou coentro picado fresco.
 
 ## Rendimento
 
-Serve até três pessoas.
+Serve 4 pratos.

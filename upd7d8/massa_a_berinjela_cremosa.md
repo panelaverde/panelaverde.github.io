@@ -11,7 +11,7 @@ Massa à berinjela defumada e cremosa.
 
 * 400gr de berinjela
 * 3 dentes de alho
-* 1 pimenta dedo de moça
+* 1 pimenta dedo de moça <i class="fas fa-pepper-hot"></i>
 * 1 pitada de alecrim
 * 1 colher de sopa de tahine
 * 250gr de massa sem ovos  <i class="fas fa-seedling"></i>
