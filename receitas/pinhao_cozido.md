@@ -3,8 +3,6 @@ layout: receitas
 ---
 # Pinhão cozido
 
-<!-- ![Imagem: Pinhão cozido](./pinhao_cozido.jpg) -->
-
 Semente delícia de nossa araucaria!  <i class="fas fa-seedling"></i>
 
 ## Ingredientes
