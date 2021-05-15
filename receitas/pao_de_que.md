@@ -25,6 +25,10 @@ layout: receitas
 
 ## Observações
 
+* Tempo de preparo
+  * Massa - 30 minutos
+  * Forno - 40 minutos
+
 * Com cuidado, vale a pena virar os pães após 20 minutos de forno. Vai estar pronto quando as bolinhas crescerem e tiverem uma rachadura.
 
 * É mais rápido cozinhar o inhame em pedaços, leva em torno de 10min até ficar macio.
