@@ -1,6 +1,9 @@
+<!-- mudo:ini -->
 ---
 layout: receitas
 ---
+<!-- mudo:fim -->
+
 # Berinjela empanada crocante
 
 ![Imagem: Berinjela empanada crocante](./img/berinjela_empanada_crocante.jpg)
