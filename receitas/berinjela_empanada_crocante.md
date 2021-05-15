@@ -3,7 +3,7 @@ layout: receitas
 ---
 # Berinjela empanada crocante
 
-![Imagem: Berinjela empanada crocante](./berinjela_empanada_crocante.jpg)
+![Imagem: Berinjela empanada crocante](./img/berinjela_empanada_crocante.jpg)
 
 Bergela empanada crocante!
 

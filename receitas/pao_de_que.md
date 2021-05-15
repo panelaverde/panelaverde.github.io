@@ -3,7 +3,7 @@ layout: receitas
 ---
 # Pão de quê
 
-![Pão de quê](pao_de_que.jpg)
+![Pão de quê](./img/pao_de_que.jpg)
 
 ## Ingredientes
 
