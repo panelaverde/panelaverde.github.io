@@ -1,6 +1,9 @@
 ---
 layout: receitas
 ---
+
+<iframe src="https://archive.org/embed/massa_a_carbonara_de_pinhao" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Massa à carbonara de pinhão
 
 ![Imagem: Prato servido com massa à carbonara de pinhão, salsinha e castanha do pará relada.](./massa_a_carbonara_de_pinhao.jpg)
@@ -40,7 +43,7 @@ Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas 
 
 ### Finalização
 
-1. Cozinhe a massa conforme instruções da fabricante. <i>Al dente</i> é mais gostosa! <i class="fas fa-wink"></i>
+1. Cozinhe a massa conforme instruções da fabricante. __Al dente__ é mais gostosa! <i class="fas fa-wink"></i>
 2. Na frigideira com os pinhões, adicione o molho e a massa.
 3. Mexa e refogue por uns instantes em fogo alto.
 4. Sirva. <i class="fas fa-laugh-wink"></i>
