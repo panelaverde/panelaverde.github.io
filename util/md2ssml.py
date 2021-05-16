@@ -14,36 +14,60 @@ f.close ()
 text = text.replace ('#', '<break time="250ms"/>' )
 text = text.replace ('*', '<break time="250ms"/>' )
 
-# **?
+# remove layout
+ini = text.index ('---')
+fim = text[ini+2:len (text)].index ('---')
+text = text[0:ini] + text[ini+2+fim+3:len (text)]
+
+# <speak>
+text = '<speak>' + text
+
+# imagens
+text = text.replace ('![', '[')
+
+# links
+ini = text.find ('[')
+while (ini != -1):
+    fim = text[ini:len (text)].index (']')
+    text = text[0:ini] + \
+    '<break time="100ms"/>' + \
+    text[ini+1:ini+fim] + text[ini+fim:len (text)]
+    ini = text.index ('](')
+    fim = text[ini:len (text)].index(')')
+    text = text[0:ini] + \
+    '<break time="100ms"/>' + \
+    ' link para ' + text[ini+2:ini+fim] + \
+    '<break time="100ms"/>' + \
+    text[ini+1+fim:len (text)]
+    ini = text.find ("[")
+
+# strong -> emphasis
 ini = text.find ('**')
 while (ini != -1):
     text = text.replace ('**', '<emphasis>', 1)
     text = text.replace ('**', '</emphasis>', 1)
     ini = text.find('**')
 
-# ![ ?
-ini = text.find ("![")
-while (ini != -1):
-    fim = text[ini:len(text)].find (')')
-    text = text[0:ini] + text[ini+fim+1:len(text)]
-    ini = text.find ("![")
-
 # <iframe ?
 ini = text.find ("<iframe ")
 while (ini != -1):
-    fim = text[ini:len(text)].find ('</iframe>')
+    fim = text[ini:len(text)].index ('</iframe>')
     text = text[0:ini] + text[ini+fim+9:len(text)]
     ini = text.find ("<iframe ")
 
-# <iframe ?
+# <i ?
 ini = text.find ("<i ")
 while (ini != -1):
-    fim = text[ini:len(text)].find ('</i>')
+    fim = text[ini:len(text)].index ('</i>')
     text = text[0:ini] + text[ini+fim+4:len(text)]
-    ini = text.find ("<iframe ")
+    ini = text.find ("<i ")
+
+# </speak>
+text = text + '</speak>'
 
 # output filename
 fn = fn.replace (".md", ".ssml")
+fn = './ssml/' + fn
 f = open (fn, 'w')
 f.write (text)
 f.close ()
