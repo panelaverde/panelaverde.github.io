@@ -5,19 +5,19 @@ layout: receitas
 
 ![Imagem: Berinjela empanada crocante](./berinjela_empanada_crocante.jpg)
 
-Bergela empanada crocante!
+Berinjela empanada crocante!
 
 ## Ingredientes
 
 1. 1 berinjela (média ou grande)
-2. 1 xícara de [creme para empanar](./preparo_para_empanar.md)
-3. 1 xícara de [farinha para empanar](./preparo_para_empanar.md)
+2. 1 xícara de [creme para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html)
+3. 1 xícara de [farinha para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html)
 4. 2 colheres de sopa de óleo vegetal
 
 ## Modo de preparo
 
-1. Coloque o [creme para empanar](./preparo_para_empanar.md) em uma tigela rasa. Veja a receita [aqui](./preparo_para_empanar.md)!
-2. Coloque a [farinha para empanar](./preparo_para_empanar.md) em uma tigela rasa. Veja a receita [aqui](./preparo_para_empanar.md)!
+1. Coloque o [creme para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html) em uma tigela rasa.
+2. Coloque a [farinha para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html).
 3. Corte a berinjela em rodelas de dois dedos de espessura.
 4. Empanar cada rodela individualmente:
    
