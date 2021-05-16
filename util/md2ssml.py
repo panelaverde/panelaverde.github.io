@@ -55,11 +55,11 @@ while (ini != -1):
 
 
 # strong -> emphasis
-ini = text.find ('**')
+ini = text.find ('__')
 while (ini != -1):
-    text = text.replace ('**', '<emphasis>', 1)
-    text = text.replace ('**', '</emphasis>', 1)
-    ini = text.find('**')
+    text = text.replace ('__', '<emphasis>', 1)
+    text = text.replace ('__', '</emphasis>', 1)
+    ini = text.find('__')
 
 # <iframe ?
 ini = text.find ("<iframe ")
