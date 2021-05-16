@@ -1,10 +1,9 @@
 ---
 layout: receitas
 ---
-<iframe src="https://archive.org/embed/pao_de_que" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 # Pão de quê
 
-![Pão de quê](./img/pao_de_que.jpg)
+![Pão de quê](pao_de_que.jpg)
 
 ## Ingredientes
 
@@ -25,10 +24,6 @@ layout: receitas
 6. Coloque para assar no forno a 180°C em uma forma antiaderente ou besuntada por cerca de 40min.. Disponha as bolinhas um pouco separadas uma das outras (elas vão quase dobrar de tamanho).
 
 ## Observações
-
-* Tempo de preparo
-  * Massa - 30 minutos
-  * Forno - 40 minutos
 
 * Com cuidado, vale a pena virar os pães após 20 minutos de forno. Vai estar pronto quando as bolinhas crescerem e tiverem uma rachadura.
 

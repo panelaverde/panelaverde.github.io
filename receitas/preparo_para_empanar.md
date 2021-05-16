@@ -9,7 +9,7 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ## Creme para empanar
 
-![Imagem: Creme para empanar](./img/creme_para_empanar.jpg)
+![Imagem: Creme para empanar](./creme_para_empanar.jpg)
 
 ### Ingredientes
 
@@ -32,7 +32,7 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ## Farinha para empanar
 
-![Imagem: Farinha para empanar](./img/farinha_para_empanar.jpg)
+![Imagem: Farinha para empanar](./farinha_para_empanar.jpg)
 
 ### Ingredientes
 

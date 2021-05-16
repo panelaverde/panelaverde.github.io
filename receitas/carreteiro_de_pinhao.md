@@ -3,7 +3,7 @@ layout: receitas
 ---
 # Carreteiro de pinhão
 
-![Imagem: Carreteiro de pinhão](./img/carreteiro_de_pinhao.jpg)
+![Imagem: Carreteiro de pinhão](./carreteiro_de_pinhao.jpg)
 
 Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinhão!  <i class="fas fa-seedling"></i>
 
