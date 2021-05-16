@@ -2,7 +2,7 @@
 layout: receitas
 ---
 
-<iframe src="https://archive.org/embed/berinjela_empanada_crocante" max-width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/berinjela_empanada_crocante" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Berinjela empanada crocante
 
