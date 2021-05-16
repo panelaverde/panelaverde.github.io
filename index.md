@@ -15,6 +15,11 @@ Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receita
 
 Guiozas recheados com legumes.
 
+## Massa à carbonara de pinhão [[abrir](./receitas/massa_a_carbonara_de_pinhao.md)]
+
+Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
+
+
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
 <span class="badge badge-success">Maravilhosa!</span> Nossa primeira receita. :)

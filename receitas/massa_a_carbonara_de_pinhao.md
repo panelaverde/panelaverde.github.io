@@ -3,9 +3,9 @@ layout: receitas
 ---
 # Massa à carbonara de pinhão
 
-![Imagem: Massa à carbonara de pinhão](./massa_a_carbonara_de_pinhao.jpg)
+![Imagem: Prato servido com massa à carbonara de pinhão, salsinha e castanha do pará relada.](./massa_a_carbonara_de_pinhao.jpg)
 
-Massa, molho tipo inglês e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
+Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
 
 ## Ingredientes
 
