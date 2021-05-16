@@ -2,7 +2,7 @@
 layout: receitas
 ---
 
-<iframe src="https://archive.org/embed/pao_de_que" width="270" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/pao_de_que" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Pão de quê
 
