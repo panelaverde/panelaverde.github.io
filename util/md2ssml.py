@@ -1,4 +1,5 @@
 import sys
+import os
 
 print ('Convert MD to SSML')
 
@@ -67,7 +68,7 @@ text = text + '</speak>'
 
 # output filename
 fn = fn.replace (".md", ".ssml")
-fn = './ssml/' + fn
+fn = os.environ['HOME'] + '/' + fn
 f = open (fn, 'w')
 f.write (text)
 f.close ()
