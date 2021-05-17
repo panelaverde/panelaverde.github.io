@@ -76,7 +76,7 @@ text = text + '</speak>'
 
 # output filename
 fn = fn.replace (".md", ".ssml")
-fn = os.environ['HOME'] + '/' + fn
+fn = os.environ['HOME'] + '/Music/' + fn
 f = open (fn, 'w')
 f.write (text)
 f.close ()

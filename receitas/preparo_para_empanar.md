@@ -1,6 +1,9 @@
 ---
 layout: receitas
 ---
+
+<iframe src="https://archive.org/embed/preparo_para_empanar" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Preparo para empanar
 
 Preparo para empanar o que você quiser. Só não vale empanar bichinhos, eihn! <i class="fas fa-seedling"></i> <i class="fas fa-smile-wink"></i> 
@@ -9,7 +12,7 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ## Creme para empanar
 
-![Imagem: Creme para empanar](./creme_para_empanar.jpg)
+![Imagem: Creme para empanar reservado em um prato fundo, uma colher é usada para mostra o molho em destaque](./creme_para_empanar.jpg)
 
 ### Ingredientes
 
@@ -32,7 +35,7 @@ O preparo consiste no **creme** e na **farinha para empanar**. Siga as receitas 
 
 ## Farinha para empanar
 
-![Imagem: Farinha para empanar](./farinha_para_empanar.jpg)
+![Imagem: Farinha para empanar reservada em um prato fundo](./farinha_para_empanar.jpg)
 
 ### Ingredientes
 
