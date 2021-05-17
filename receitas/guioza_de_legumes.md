@@ -1,9 +1,12 @@
 ---
 layout: receitas
 ---
+
+<iframe src="https://archive.org/embed/guioza_de_legumes" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Guioza de legumes
 
-![Imagem: Guioza de legumes](./guioza_de_legumes.jpg)
+![Imagem: Guiozas de legumes servidos em uma travessa com temperinho verde](./guioza_de_legumes.jpg)
 
 Guiozas recheados com legumes.
 
@@ -47,7 +50,7 @@ Guiozas recheados com legumes.
 
 ### Massa
 
-![Imagem: Massa dos guiozas de legumes](./guioza_de_legumes_massa.jpg)
+![Imagem: Massa crua dos guiozas de legumes sobre uma bancada de pedra](./guioza_de_legumes_massa.jpg)
 
 1. Coloque a farinha e o sal em uma tigela e misture.
 2. Acrescente água aos poucos e amasse com a mão até ficar uma massa uniforme.
@@ -55,7 +58,7 @@ Guiozas recheados com legumes.
 
 ### Recheio
 
-![Imagem: Recheio dos guiozas de legumes](./guioza_de_legumes_recheio.jpg)
+![Imagem: Recheio dos guiozas de legumes em uma frigideira alta](./guioza_de_legumes_recheio.jpg)
 
 1. Preaqueça os óleos em uma frigideira alta em fogo baixo.
 2. Acrescente cebola e refogue até ficar levemente dourada.
@@ -67,7 +70,7 @@ Guiozas recheados com legumes.
 
 ### Preparo dos guiozas recheados
 
-![Imagem: Preparo dos guiozas de legumes](./guioza_de_legumes_preparo.jpg)
+![Imagem: Guiozas de legumes colocados em uma bancada de pedra antes de serem finalizados](./guioza_de_legumes_preparo.jpg)
 
 1. Abra a massa com rolo até ficar bem fina.
 2. Corte a massa em discos de 10cm cada. Pode usar a boca de uma xícara grande ou um pires pequeno, etc..
