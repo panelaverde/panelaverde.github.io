@@ -1,9 +1,12 @@
 ---
 layout: receitas
 ---
+
+<iframe src="https://archive.org/embed/carreteiro_de_pinhao" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Carreteiro de pinhão
 
-![Imagem: Carreteiro de pinhão](./carreteiro_de_pinhao.jpg)
+![Imagem: Prato servido com carreteiro de pinhão](./carreteiro_de_pinhao.jpg)
 
 Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinhão!  <i class="fas fa-seedling"></i>
 
