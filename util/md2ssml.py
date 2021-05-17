@@ -28,13 +28,13 @@ ini = text.find ('![')
 while (ini != -1):
     fim = text[ini:len (text)].index ('](')
     text = text[0:ini] + \
-    '<break time="100ms"/>' + \
-    text[ini+2:ini+fim] + text[ini+fim:len (text)]    
+        '<break time="100ms"/>' + \
+        text[ini+2:ini+fim] + text[ini+fim:len (text)]    
     ini = text.index ('](')
     fim = text[ini:len (text)].index(')')
     text = text[0:ini] + \
-    '<break time="100ms"/>' + \
-    text[ini+fim+1:len (text)]
+        '<break time="100ms"/>' + \
+        text[ini+fim+1:len (text)]
     ini = text.find ("![")
 
 # links
@@ -42,15 +42,11 @@ ini = text.find ('[')
 while (ini != -1):
     fim = text[ini:len (text)].index (']')
     text = text[0:ini] + \
-    '<break time="100ms"/>' + \
-    text[ini+1:ini+fim] + text[ini+fim:len (text)]
+        text[ini+1:ini+fim] + text[ini+fim:len (text)]
     ini = text.index ('](')
     fim = text[ini:len (text)].index(')')
     text = text[0:ini] + \
-    '<break time="100ms"/>' + \
-    ' link para ' + text[ini+2:ini+fim] + \
-    '<break time="100ms"/>' + \
-    text[ini+1+fim:len (text)]
+        text[ini+1+fim:len (text)]
     ini = text.find ("[")
 
 

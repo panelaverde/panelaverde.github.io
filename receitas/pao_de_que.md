@@ -6,14 +6,14 @@ layout: receitas
 
 # Pão de quê
 
-![Pão de quê](pao_de_que.jpg)
+![Imagem: Pães de quê servidos em uma tigela de barro](pao_de_que.jpg)
 
 ## Ingredientes
 
 * 1 xícara de inhame
 * 1 xícara de polvilho doce
 * 1 xícara de polvilho azedo
-* 1 colher de chá de colorau
+* 1 colher de chá de colorau em pó
 * 1/4 xícara de óleo 
 * 1 colher de chá de sal (a gosto)
 
@@ -33,6 +33,10 @@ layout: receitas
 * É mais rápido cozinhar o inhame em pedaços, leva em torno de 10min até ficar macio.
 
 * O inhame está em falta? Não tem desculpa, pode substituir por batata doce ou inglesa. A quantidade é a mesma! <i class="fas fa-laugh-wink"></i>
+
+* Na massa, pode-se adicionar paradinhas super nutritivas, como sementes de [chia](https://pt.wikipedia.org/wiki/Salvia_hispanica), de [gergilim](https://pt.wikipedia.org/wiki/Sesamum_indicum), de [girasol](https://pt.wikipedia.org/wiki/Girassol), etc.
+
+* Talvez mais nutritivo, o [colorau](https://pt.wikipedia.org/wiki/Colorau) pode ser substituído por [cúrcuma](https://pt.wikipedia.org/wiki/A%C3%A7afr%C3%A3o-da-terra) ralada ou em pó.
 
 ## Rendimento
 

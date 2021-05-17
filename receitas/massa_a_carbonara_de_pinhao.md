@@ -6,7 +6,7 @@ layout: receitas
 
 # Massa à carbonara de pinhão
 
-![Imagem: Prato servido com massa à carbonara de pinhão, salsinha e castanha do pará relada.](./massa_a_carbonara_de_pinhao.jpg)
+![Imagem: Prato servido com massa à carbonara de pinhão, salsinha e castanha do pará ralada.](./massa_a_carbonara_de_pinhao.jpg)
 
 Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
 
@@ -32,7 +32,7 @@ Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas 
 1. Refogue cebola picada e alho picado.
 2. Adicione manteiga vegetal e as farinhas para fritar.
 3. No que as farinhas dourarem, adicione a água aos poucos e mexa constantemente. Vai começar a formar um molho espesso. Adicione sal a gosto e a noz moscada.
-4. Leve o molho ao liquidificado e bata até ficar uniforme. Reserve.
+4. Leve o molho ao liquidificador e bata até ficar uniforme. Reserve.
 
 ### Pinhão crocante
 
@@ -52,9 +52,9 @@ Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas 
 
 * Tempo de preparo: 1 hora.
 
-* No molho, fique a vontade para adicionar temperinhos maravilhosos como sálvia, erva baleeira, etc.
+* No molho, fique a vontade para adicionar temperinhos picados maravilhosos como [sálvia](https://pt.wikipedia.org/wiki/Salvia_officinalis), [erva baleeira](https://pt.wikipedia.org/wiki/Cordia_verbenacea), [levístico](https://pt.wikipedia.org/wiki/Lev%C3%ADstico), etc.
 
-* Sirva com temperinho verde picado, coentro picado, castanha do pará ralada ou pimenta do reino ralada. <i class="fas fa-laugh-wink"></i>
+* Sirva com temperinho verde  picado, coentro picado, castanha do pará ralada ou pimenta do reino ralada. <i class="fas fa-laugh-wink"></i>
 
 ## Rendimento
 
