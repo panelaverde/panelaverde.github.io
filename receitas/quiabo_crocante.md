@@ -12,7 +12,7 @@ Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink
 
 ## Ingredientes
 
-* 500r de quiabo.
+* 500 gramas de quiabo.
 * 1 xícara de farinha de mandioca.
 * 1 colher de chá cheia de sal (a gosto).
 * 1 colher de chá de pimenta do reino.
