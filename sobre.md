@@ -9,6 +9,7 @@ Na panela_verde, compartilhamos as receitas que costumamos cozinhar no dia-a-dia
 
 * [<i class="fab fa-instagram"></i> bosh.tv](https://www.instagram.com/bosh.tv) 
 * [<i class="fab fa-instagram"></i> clubedereceitasveganas](https://www.instagram.com/clubedereceitasveganas)
+* [<i class="fab fa-instagram"></i> comidasaudavelpratodos](https://www.instagram.com/comidasaudavelpratodos)
 * [<i class="fab fa-instagram"></i> imaginavegan](https://www.instagram.com/imaginavegan) 
 * [<i class="fab fa-instagram"></i> julianamoraco](https://www.instagram.com/julianamoraco) 
 * [<i class="fab fa-instagram"></i> mussinha_carol](https://www.instagram.com/mussinha_carol) 
