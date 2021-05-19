@@ -33,6 +33,11 @@ Veja [aqui](/receitas/pao_de_que.md)!
 
 Preparo para empanar o que você quiser. Só não vale empanar bichinhos! <i class="fas fa-seedling"></i> <i class="fas fa-smile-wink"></i>
 
+## Quiabo crocante [[abrir](./receitas/quiabo_crocante.md)]
+
+<span class="badge badge-warning">Nova</span> Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink"></i> 
+
+
 ## Contatos
 
 * Instagram
