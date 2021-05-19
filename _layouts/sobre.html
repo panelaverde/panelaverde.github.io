@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "pt" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<![endif]-->
+
+	 <!-- FontAwesome -->
+	 <script src="https://kit.fontawesome.com/eeff52b7d3.js" crossorigin="anonymous"></script>
+
+	 <!-- Bootsrap 4 -->
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	 
+	 
+	 <!-- alerta sobre a política de dados-->
+	 <script>
+           $(document).ready(function () {
+               $("#generalAlert").hide();
+               if (document.referrer.lastIndexOf("://panelaverde.github.io") == -1) {
+		   $("#generalAlert").fadeIn(100);
+	       }
+           });    
+         </script>
+
+	 <!-- Global site tag (gtag.js) - Google Analytics -->
+	 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VGQJ8VPM5P"></script>
+	 <script>
+	   window.dataLayer = window.dataLayer || [];
+	   function gtag(){dataLayer.push(arguments);}
+	   gtag('js', new Date());
+	   
+	   gtag('config', 'G-VGQJ8VPM5P');
+	 </script>
+	 
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a> : sobre</h1>
+        
+        <p>{{ site.description | default: site.github.project_tagline }} <i class="fas fa-seedling"></i></p>
+
+      </header>
+      <section>
+
+	<p class="view">Siga-nos! <a href="https://www.instagram.com/panela_verde/"><i class="fab fa-instagram"></i> panela_verde</a>.</p>
+	{{ content }}
+
+      </section>
+      <footer>
+        <p><small>Este projeto é mantido por <a href="https://www.instagram.com/panela_verde/"><i class="fab fa-instagram"></i> panela_verde</a>.</small></p>
+        <p><small>Hospedado em GitHub Pages &mdash; Tema modificado a partir do <a href="https://github.com/pages-themes/minimal">Minimal Theme</a>.</small></p>
+        <p><small><a href="https://github.com/panelaverde"><i class="fab fa-github"></i> Perfil</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/></a></small></p>
+	<p><small>Veja nossa <a href="./politica.html">Política de uso de dados</a>.</small></p>
+
+	<div class="alert alert-warning alert-dismissible" id="generalAlert" role="alert" style="display:none; position: fixed; bottom: 0;  max-width: 90vw;">
+	  <span type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></span>
+	  Ao navegar por este <i>site</i>, você concorda com a nossa <a href="./politica.html">Política de uso de dados</a>.
+	</div>
+      </footer>
+    </div>
+    
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

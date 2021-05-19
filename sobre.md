@@ -1,5 +1,5 @@
 ---
-layout: mydefault
+layout: sobre
 ---
 # Sobre nós
 
