@@ -39,7 +39,7 @@ Preparo para empanar o que você quiser. Só não vale empanar bichinhos! <i cla
 
 # Sobre nós
 
-De tando nos perguntarem sobre o que comemos, resolvemos fazer este site de receitas livres. Nós somos a Bia e o Pedro, adoramos cozinhar e confraternizar entre familiares, amigas e amigos. [mais...](./sobre.md)
+De tando nos perguntarem sobre o que comemos, resolvemos fazer este site de receitas livres. Nós somos a Bia <i class="fas fa-smile-beam"></i> e o Pedro <i class="fas fa-laugh-wink"></i>, adoramos cozinhar e confraternizar entre familiares, amigas e amigos. [mais...](./sobre.md)
 
 ## Contatos
 
