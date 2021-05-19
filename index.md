@@ -37,9 +37,9 @@ Preparo para empanar o que você quiser. Só não vale empanar bichinhos! <i cla
 
 <span class="badge badge-warning">Nova</span> Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink"></i>
 
-## Sobre nós
+# Sobre nós
 
-De tando nos perguntarmos sobre o que comemos, resolvemos fazer este site de receitas livres. Nós somos a Bia e o Pedro, adoramos cozinhar e confraternizar entre familiares, amigas e amigos. [Leia mais ...](./sobre.md)
+De tando nos perguntarem sobre o que comemos, resolvemos fazer este site de receitas livres. Nós somos a Bia e o Pedro, adoramos cozinhar e confraternizar entre familiares, amigas e amigos. [mais...](./sobre.md)
 
 ## Contatos
 
