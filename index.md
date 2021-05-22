@@ -5,7 +5,7 @@ layout: mydefault
 
 ## Carreteiro de pinhão [[abrir](./receitas/carreteiro_de_pinhao.md)] 
 
-<span class="badge badge-warning">Nova</span> Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinhão!  <i class="fas fa-seedling"></i>
+Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinhão!  <i class="fas fa-seedling"></i>
 
 ## Berinjela empanada crocante [[abrir](./receitas/berinjela_empanada_crocante.md)] 
 
@@ -15,9 +15,13 @@ Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receita
 
 Guiozas recheados com legumes.
 
+## Massa à bolonhesa de soja [[abrir](./receitas/massa_a_bolonhesa_de_soja.md)]
+
+<span class="badge badge-warning">Nova</span> Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
+
 ## Massa à carbonara de pinhão [[abrir](./receitas/massa_a_carbonara_de_pinhao.md)]
 
-<span class="badge badge-warning">Nova</span> Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
+Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
 
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
@@ -27,7 +31,7 @@ Veja [aqui](/receitas/pao_de_que.md)!
 
 ## Pinhão cozido [[abrir](./receitas/pinhao_cozido.md)] 
 
-<span class="badge badge-warning">Nova</span> Semente delícia de nossa araucaria!  <i class="fas fa-seedling"></i>
+Semente delícia de nossa araucaria!  <i class="fas fa-seedling"></i>
 
 ## Preparo para empanar [[abrir](./receitas/preparo_para_empanar.md)]
 
