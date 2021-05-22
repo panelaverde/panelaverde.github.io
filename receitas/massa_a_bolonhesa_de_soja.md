@@ -28,7 +28,7 @@ Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
 ### Modo de preparo
 
 1. Coloque a soja de molho em água quente com o vinagre. A água deve cobrir a soja. Tempo de molho, 30 minutos.
-2. Lave a soja: adicione água limpa e escorra a água espremendo com às mãos a soja por cerca 3 vezes. Ao final a soja deve ser reservada o mais seca possível.
+2. Lave a soja: adicione água limpa e escorra a água espremendo com as mãos a soja por cerca 3 vezes. Ao final a soja deve ser reservada o mais seca possível.
 3. Em uma frigideira alta, refogue a cebola picada. No que a cebola começar a dourar, adicione o alho picado e a pimenta picada para refogar. Refogue até dourar.
 4. Reserve o refogado.
 5. Na frigideira, frite a soja com duas colheres de sopa de óleo vegetal.
@@ -50,9 +50,9 @@ Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
 
 ### Modo de preparo
 
-1. Em uma panela média, refogue a cebola picada. No que ela começar a ficar dourada, adicione o alho picado, a pimenta picada e a folha de louro inteira para refogar. Refogue até dourar.
+1. Em uma panela média, refogue a cebola picada. No que ela começar a ficar dourada, adicione o alho picado, a pimenta picada e a folha de louro inteira. Refogue até dourar.
 2. Adicione os tomates picados sem casca e o sal a gosto.
-3. Cozinhe em fogo médio, mexa frequentemente até os tomates derreterem.
+3. Cozinhe em fogo médio, mexa frequentemente até os tomates desmancharem.
 4. Mexendo, adicione água aos poucos para obter um molho uniforme.
 5. Reserve.
 
@@ -71,7 +71,7 @@ Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
 ## Observações
 
 * Tempo de preparo:
-  - Sola moída delícia: 50 minutos.
+  - Soja moída delícia: 50 minutos.
   - Molho: 30 minutos.
   - Massa: conforme instruções da fabricante.
 
