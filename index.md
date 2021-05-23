@@ -23,6 +23,9 @@ Guiozas recheados com legumes.
 
 Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
 
+## Molho de tomate básico
+
+<span class="badge badge-warning">Nova</span> Preparo de molho de tomate básico! <i class="fas fa-laugh-wink"></i>
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
