@@ -23,7 +23,7 @@ Guiozas recheados com legumes.
 
 Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas fa-seedling"></i>
 
-## Molho de tomate básico
+## Molho de tomate básico [[abrir](./receitas/molho_de_tomate_basico.md)]
 
 <span class="badge badge-warning">Nova</span> Preparo de molho de tomate básico! <i class="fas fa-laugh-wink"></i>
 
@@ -44,7 +44,7 @@ Preparo para empanar o que você quiser. Só não vale empanar bichinhos! <i cla
 
 <span class="badge badge-warning">Nova</span> Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink"></i>
 
-## Soja moída delícia
+## Soja moída delícia [[abrir](./receitas/soja_moida_delicia.md)]
 
 <span class="badge badge-warning">Nova</span> Soja miúda refogada com ervilhas frescas! <i class="fas fa-grin-stars"></i>
 
