@@ -64,7 +64,7 @@ Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
 
 ### Modo de preparo
 
-1. Prepare a massa conforme instruções da fabricante. _Al dente_ é mais gostosa. <i class="fas fa-laugh-wink"></i>
+1. Prepare a massa conforme instruções da fabricante. **Al dente** é mais gostosa. <i class="fas fa-laugh-wink"></i>
 2. Em uma panela (pode ser a mesma que o molho foi preparado), misture o molho de tomate com a soja moída delícia. Cozinhe por cerca de 3 minuto. A seu gosto, corrija o sal ou adicione água para dar volume no molho à bolonhesa.
 3. Sirva a massa com o molho. <i class="fas fa-laugh"></i>
 

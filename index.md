@@ -41,6 +41,10 @@ Preparo para empanar o que você quiser. Só não vale empanar bichinhos! <i cla
 
 <span class="badge badge-warning">Nova</span> Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink"></i>
 
+## Soja moída delícia
+
+<span class="badge badge-warning">Nova</span> Soja miúda refogada com ervilhas frescas! <i class="fas fa-grin-stars"></i>
+
 # Sobre nós
 
 De tando nos perguntarem sobre o que comemos, resolvemos fazer este site de receitas livres. Nós somos a Bia <i class="fas fa-smile-beam"></i> e o Pedro <i class="fas fa-laugh-wink"></i>, adoramos cozinhar e confraternizar entre familiares, amigas e amigos. [mais...](./sobre.md)
