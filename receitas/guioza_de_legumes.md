@@ -14,30 +14,30 @@ Guiozas recheados com legumes.
 
 ### Massa
 
-* 1 e 1/2 xícara de farinha de trigo
-* 1/2 xícara de água morna
-* 1 colher de chá de sal (a gosto)
+* 1 e 1/2 xícara de farinha de trigo.
+* 1/2 xícara de água morna.
+* 1 colher de chá de sal (a gosto).
 
 ### Recheio
 
-* 1/4 xícara de cebola picada
-* 1 xícara de cenoura ralada
-* 1 colher de chá de gengibre picado
-* 1 dente de alho picado
-* 3/4 xícara de alho poró picado
-* 1 pimenta dedo-de-moça <i class="fas fa-pepper-hot"></i>
-* 1 xícara de batata ralada
-* 2 xícaras de repolho roxo picado
-* 1 colher de chá de sal (a gosto)
-* 1 colher de chá de amido de milho
-* 1/4 xícara de água
-* 1 colher de chá de óleo de gergelim
-* 1 colher de sopa de óleo vegetal
+* 1/4 xícara de cebola picada.
+* 1 xícara de cenoura ralada.
+* 1 colher de chá de gengibre picado.
+* 1 dente de alho picado.
+* 3/4 xícara de alho poró picado.
+* 1 pimenta dedo-de-moça. <i class="fas fa-pepper-hot"></i>
+* 1 xícara de batata ralada.
+* 2 xícaras de repolho roxo picado.
+* 1 colher de chá de sal (a gosto).
+* 1 colher de chá de amido de milho.
+* 1/4 xícara de água.
+* 1 colher de chá de óleo de gergelim.
+* 1 colher de sopa de óleo vegetal.
 
 ### Preparo dos guiozas recheados
 
-* 1/4 xícara de óleo vegetal
-* 500ml de água
+* 1/4 xícara de óleo vegetal.
+* 500ml de água.
 
 ### Molho (opcional)
 
@@ -75,7 +75,7 @@ Guiozas recheados com legumes.
 1. Abra a massa com rolo até ficar bem fina.
 2. Corte a massa em discos de 10cm cada. Pode usar a boca de uma xícara grande ou um pires pequeno, etc..
 3. Abra cada disco de massa mais uma vez, de forma a deixá-los bem finos. Esforce-se! <i class="fas fa-laugh"></i>
-4. Recheie cada disco de massa e feche em formato de pastel com dobras. Veja um vídeo no YouTube! :D
+4. Recheie cada disco de massa e feche em formato de pastel com dobras. Veja um vídeo no YouTube! <i class="fas fa-laugh"></i>
 5. Em uma frigideira antiaderente, preaqueça 1 colher de sopa do óleo vegetal em fogo baixo.
 2. Acrescente em torno de quatro a seis guiozas e frite sem mexer até dourar um dos lados.
 3. Adicione em torno de 1/4 de xícara de água, tampe a frigideira e cozinhe até a massa ficar translúcida.
@@ -93,8 +93,6 @@ Fique a vontade para improvisar no recheio! <i class="fas fa-smile-wink"></i>
 ## Rendimento
 
 Rende em torno de 20 guiozas. Esforçou-se? Então, rende mais de 25! <i class="fas fa-laugh"></i>
-
-
 
 
 

@@ -12,10 +12,10 @@ Berinjela empanada crocante!
 
 ## Ingredientes
 
-1. 1 berinjela (média ou grande)
-2. 1 xícara de [creme para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html)
-3. 1 xícara de [farinha para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html)
-4. 2 colheres de sopa de óleo vegetal
+1. 1 berinjela (média ou grande).
+2. 1 xícara de [creme para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html).
+3. 1 xícara de [farinha para empanar](https://panelaverde.github.io/receitas/preparo_para_empanar.html).
+4. 2 colheres de sopa de óleo vegetal.
 
 ## Modo de preparo
 
@@ -32,7 +32,7 @@ Berinjela empanada crocante!
    
 5. Besunte uma forma de forno (forma baixa).
 6. Coloque as berinjelas na forma e passe um fio de óleo vegetal em cima de cada uma.
-7. Leve ao forno (preaqueça) à 200ºC por cerca de 20 minutos.
+7. Leve ao forno (preaqueça) à 200°C por cerca de 20 minutos.
 8. Vire as berinjelas empanadas e volte a assar por mais 20 minutos.
 
 ## Observações

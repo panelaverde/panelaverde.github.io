@@ -11,6 +11,10 @@ Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinh�
 
 Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md). 
 
+## Feijão nosso de todo dia [[abrir](./receitas/feijao_nosso_de_todo_dia.md)]
+
+<span class="badge badge-warning">Nova</span> Feijão preto delícia! <i class="fas fa-laugh"></i>
+
 ## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
 
 Guiozas recheados com legumes.
