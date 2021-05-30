@@ -11,13 +11,13 @@ Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receita
 
 Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinhão!  <i class="fas fa-seedling"></i>
 
-## Couscous com legumes - inspirado em tahine [[abrir](./receitas/couscous_com_legumes.md)]
+## Couscous com legumes - inspirado em tagine [[abrir](./receitas/couscous_com_legumes.md)]
 
-Inspirado em tahine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
+<span class="badge badge-warning">Nova</span> Inspirado em tagine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
 
 ## Feijão nosso de todo dia [[abrir](./receitas/feijao_nosso_de_todo_dia.md)]
 
-<span class="badge badge-warning">Nova</span> Feijão preto delícia! <i class="fas fa-laugh"></i>
+Feijão preto delícia! <i class="fas fa-laugh"></i>
 
 ## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
 
@@ -25,7 +25,7 @@ Guiozas recheados com legumes.
 
 ## Massa à bolonhesa de soja [[abrir](./receitas/massa_a_bolonhesa_de_soja.md)]
 
-<span class="badge badge-warning">Nova</span> Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
+Massa, molho de tomate e soja moída delícia! <i class="fas fa-laugh"></i>
 
 ## Massa à carbonara de pinhão [[abrir](./receitas/massa_a_carbonara_de_pinhao.md)]
 
@@ -33,7 +33,7 @@ Massa, molho branco e pinhão. Muito mais delícia que carbonara! <i class="fas 
 
 ## Molho de tomate básico [[abrir](./receitas/molho_de_tomate_basico.md)]
 
-<span class="badge badge-warning">Nova</span> Preparo de molho de tomate básico! <i class="fas fa-laugh-wink"></i>
+Preparo de molho de tomate básico! <i class="fas fa-laugh-wink"></i>
 
 ## Pão de quê [[abrir](./receitas/pao_de_que.md)]
 
@@ -50,11 +50,11 @@ Preparo para empanar o que você quiser. Só não vale empanar bichinhos! <i cla
 
 ## Quiabo crocante [[abrir](./receitas/quiabo_crocante.md)]
 
-<span class="badge badge-warning">Nova</span> Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink"></i>
+Filetes crocantes de quiabo que fazem a gente babar! <i class="fas fa-laugh-wink"></i>
 
 ## Soja moída delícia [[abrir](./receitas/soja_moida_delicia.md)]
 
-<span class="badge badge-warning">Nova</span> Soja miúda refogada com ervilhas frescas! <i class="fas fa-grin-stars"></i>
+Soja miúda refogada com ervilhas frescas! <i class="fas fa-grin-stars"></i>
 
 # Sobre nós
 

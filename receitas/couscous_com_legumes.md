@@ -4,11 +4,11 @@ layout: receitas
 
 <iframe src="https://archive.org/embed/couscous_com_legumes" width="270" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-# Couscous com legumes - inspirado em tahine
+# Couscous com legumes - inspirado em tagine
 
 ![Imagem: Uma tigela de cerâmica à esquerda servada com couscous e outra mais acima servida com os legumes, entre elas amêndoas.](./couscous_com_legumes.jpg)
 
-Inspirado em tahine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
+Inspirado em tagine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
 
 ## Ingredientes
 
