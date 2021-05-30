@@ -3,13 +3,17 @@ layout: mydefault
 ---
 # Receitas
 
+## Berinjela empanada crocante [[abrir](./receitas/berinjela_empanada_crocante.md)] 
+
+Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md). 
+
 ## Carreteiro de pinhão [[abrir](./receitas/carreteiro_de_pinhao.md)] 
 
 Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinhão!  <i class="fas fa-seedling"></i>
 
-## Berinjela empanada crocante [[abrir](./receitas/berinjela_empanada_crocante.md)] 
+## Couscous com legumes - inspirado em tahine [[abrir](./receitas/couscous_com_legumes.md)]
 
-Berinjela empanada crocante! Veja também nosso [preparo para empanar](./receitas/preparo_para_empanar.md). 
+Inspirado em tahine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
 
 ## Feijão nosso de todo dia [[abrir](./receitas/feijao_nosso_de_todo_dia.md)]
 
