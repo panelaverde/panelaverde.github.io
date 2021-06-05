@@ -13,7 +13,7 @@ Uma única panela. Receita tradicional gaúcha, mas muito mais gostosa com pinh�
 
 ## Couscous com legumes - inspirado em tagine [[abrir](./receitas/couscous_com_legumes.md)]
 
-<span class="badge badge-warning">Nova</span> Inspirado em tagine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
+Inspirado em tagine, nosso couscous com legumes! <i class="fas fa-laugh"></i>
 
 ## Feijão nosso de todo dia [[abrir](./receitas/feijao_nosso_de_todo_dia.md)]
 
@@ -22,6 +22,10 @@ Feijão preto delícia! <i class="fas fa-laugh"></i>
 ## Guioza de legumes [[abrir](./receitas/guioza_de_legumes.md)]
 
 Guiozas recheados com legumes.
+
+## Massa à berinjela cremosa [[abrir](./receitas/massa_a_berinjela_cremosa.md)]
+
+<span class="badge badge-warning">Nova</span> Massa à berinjela defumada e cremosa! <i class="fas fa-hand-spock"></i>
 
 ## Massa à bolonhesa de soja [[abrir](./receitas/massa_a_bolonhesa_de_soja.md)]
 
